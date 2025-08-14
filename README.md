@@ -13,7 +13,8 @@ The quality scores are categorized into three classes — Bad, Average, and Good
 - Scikit-learn (Model building & evaluation)
 - Matplotlib (Data visualization)
 
-# Project OverflowData Loading & Exploration – Read the dataset and view initial records.
+# Project Overflow
+- Data Loading & Exploration – Read the dataset and view initial records.
 - Data Preprocessing – Convert quality scores into categorical labels (Bad, Average, Good) and encode them numerically.
 - Train-Test Split – Divide dataset into training and testing sets (80%-20%).
 - Model Training – Train a Random Forest Classifier.
